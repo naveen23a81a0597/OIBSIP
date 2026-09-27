@@ -1,29 +1,47 @@
-# Personal Portfolio
+# TechNova Landing Page
 
-## OASIS INFOBYTE Internship - Level 1 Task 2
+## OASIS INFOBYTE Internship - Level 1 Task 1
 
-A responsive personal portfolio website created using HTML5 and CSS3.
+A modern and responsive landing page created using HTML5 and CSS3 as part of the OASIS INFOBYTE Web Development and Designing internship.
 
-## Name
-Naveen Sarschandra Reddy Kovvuri
+## Project Description
 
-## Role
-CSE Student | Aspiring Web Developer
+TechNova is a fictional technology brand created to demonstrate a clean and professional landing page.
 
-## Skills
-HTML, CSS, Java, Python, SQL
-
-## Projects
-- Object Detection System
-- AI Cybersecurity SOC Agent
+The website provides information about digital solutions and includes sections for features, about, and contact.
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - Google Fonts
-- Flexbox
+- CSS Flexbox
 - CSS Grid
-- Responsive Web Design
+- Responsive Design
 
-## Contact
-naveenkovvuri1234@gmail.com
+## Features
+
+- Sticky navigation bar
+- Home, Features, About and Contact navigation
+- Hero section with headline and call-to-action button
+- Features section
+- About section
+- Contact section
+- Responsive design for mobile and desktop
+- Consistent color palette
+- Clean and readable typography
+- Footer with navigation links
+
+## Project Structure
+
+```text
+Landing Page/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+└── screenshots/
+    ├── hero.png
+    ├── features-about.png
+    └── contact-footer.png
