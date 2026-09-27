@@ -1,47 +1,68 @@
-# TechNova Landing Page
+# Personal Portfolio
 
-## OASIS INFOBYTE Internship - Level 1 Task 1
+## OASIS INFOBYTE Internship - Level 1 Task 2
 
-A modern and responsive landing page created using HTML5 and CSS3 as part of the OASIS INFOBYTE Web Development and Designing internship.
+A responsive personal portfolio website created using HTML5 and CSS3 as part of the OASIS INFOBYTE Web Development and Designing Internship.
 
-## Project Description
+## 👨‍💻 About Me
 
-TechNova is a fictional technology brand created to demonstrate a clean and professional landing page.
+**Name:** Naveen Sarschandra Reddy Kovvuri
 
-The website provides information about digital solutions and includes sections for features, about, and contact.
+**Role:** CSE Student | Aspiring Web Developer
 
-## Technologies Used
+## 🛠️ Skills
+
+- HTML
+- CSS
+- Java
+- Python
+- SQL
+
+## 📂 Projects
+
+### 1. Object Detection System
+
+A computer vision project designed to detect and identify objects from images and webcam input.
+
+### 2. AI Cybersecurity SOC Agent
+
+An AI-powered cybersecurity project designed to detect, investigate and analyze security events.
+
+## 🧰 Technologies Used
 
 - HTML5
 - CSS3
 - Google Fonts
 - CSS Flexbox
 - CSS Grid
-- Responsive Design
+- Responsive Web Design
 
-## Features
+## ✨ Features
 
-- Sticky navigation bar
-- Home, Features, About and Contact navigation
-- Hero section with headline and call-to-action button
-- Features section
-- About section
+- Responsive navigation bar
+- Home section
+- About Me section
+- Skills section
+- Projects section
 - Contact section
-- Responsive design for mobile and desktop
-- Consistent color palette
-- Clean and readable typography
-- Footer with navigation links
+- Smooth scrolling navigation
+- Responsive design
+- Clean and professional UI
 
-## Project Structure
+## 📧 Contact
+
+**Email:** naveenkovvuri1234@gmail.com
+
+## 📁 Project Structure
 
 ```text
-Landing Page/
+WebDev-L1-PersonalPortfolio/
 │
 ├── index.html
 ├── style.css
 ├── README.md
 │
 └── screenshots/
-    ├── hero.png
-    ├── features-about.png
-    └── contact-footer.png
+    ├── home.png
+    ├── about-skills.png
+    └── projects-contact.png
